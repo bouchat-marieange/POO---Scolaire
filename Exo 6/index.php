@@ -61,7 +61,7 @@
       $test->boucle($tableau);
 
 
-      echo '<h3>4. Multiplier les valeurs contenues dans le tableau</h3>';
+      echo '<h3>5. Multiplier les valeurs contenues dans le tableau</h3>';
       $test = new Multiplication($tableau);
       $test->boucle($tableau);
 
